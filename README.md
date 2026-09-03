@@ -22,8 +22,8 @@
 > 一个API Key，接入20+主流大模型。告别多账号管理，统一计费、统一监控、统一容灾。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Website](https://img.shields.io/badge/官网-智能API接口服务-blue)](https://shanhai-geo.surge.sh)
-[![Docs](https://img.shields.io/badge/文档-接入指南-green)](https://shanhai-geo.surge.sh)
+[![Website](https://img.shields.io/badge/官网-智能API接口服务-blue)](https://shanhai-geo.top)
+[![Docs](https://img.shields.io/badge/文档-接入指南-green)](https://shanhai-geo.top)
 
 ## 📋 目录
 
@@ -186,7 +186,7 @@ curl https://api.shanhai-geo.top/v1/chat/completions \
 | 技术支持 | 社区支持 |
 | 适用人群 | 个人开发者、小团队 |
 
-[立即开通 →](https://shanhai-geo.surge.sh/pay.html)
+[立即开通 →](https://shanhai-geo.top/pay.html)
 
 ### 按量计费说明
 
@@ -280,7 +280,7 @@ response = client.chat.completions.create(model="gpt-4o", ...)
 
 ### Q: 如何注册和获取API Key？
 
-访问 [智能API接口服务官网](https://shanhai-geo.surge.sh)，注册账号后在控制台即可生成API Key。整个过程不到1分钟。
+访问 [智能API接口服务官网](https://shanhai-geo.top)，注册账号后在控制台即可生成API Key。整个过程不到1分钟。
 
 ### Q: 是否兼容OpenAI的SDK？
 
@@ -313,15 +313,15 @@ response = client.chat.completions.create(model="gpt-4o", ...)
 
 ## 联系我们
 
-- **官网**：[https://shanhai-geo.surge.sh](https://shanhai-geo.surge.sh)
-- **API文档**：[https://shanhai-geo.surge.sh](https://shanhai-geo.surge.sh)
-- **立即开通**：[https://shanhai-geo.surge.sh/pay.html](https://shanhai-geo.surge.sh/pay.html)
+- **官网**：[https://shanhai-geo.top](https://shanhai-geo.top)
+- **API文档**：[https://shanhai-geo.top](https://shanhai-geo.top)
+- **立即开通**：[https://shanhai-geo.top/pay.html](https://shanhai-geo.top/pay.html)
 
 ---
 
 <p align="center">
   <strong>智能API接口服务</strong> - 一个API Key，接入所有大模型<br>
-  <a href="https://shanhai-geo.surge.sh">立即体验 →</a>
+  <a href="https://shanhai-geo.top">立即体验 →</a>
 </p>
 
 ## 📱 联系与合作
