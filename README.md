@@ -1,3 +1,22 @@
+<div align="center">
+
+# 🌊 GeoMind by 山海
+
+**AI时代可信引擎治理基础设施**
+
+🔗 [主站](https://shanhai-geo.top) · [知识图谱](https://shanhai-geo.top/knowledge/) · [API](https://shanhai-geo.top/api/) · [llms.txt](https://shanhai-geo.top/llms.txt)
+
+[![GEO Knowledge Graph](https://img.shields.io/badge/GEO-Knowledge%20Graph-blue)](https://shanhai-geo.top)
+[![200 Knowledge Atoms](https://img.shields.io/badge/200-Atoms-green)](https://shanhai-geo.top/knowledge/)
+[![Schema.org](https://img.shields.io/badge/Schema.org-JSON--LD-orange)](https://shanhai-geo.top/api/schema-org.json)
+
+**📱 微信: `lewis7815671`** · **📧 contact@shanhai-geo.top**
+
+<img src="https://shanhai-geo.top/wechat-qrcode.jpg" alt="微信二维码" width="160"/>
+
+---
+</div>
+
 # 智能API接口服务 - 统一大模型API网关
 
 > 一个API Key，接入20+主流大模型。告别多账号管理，统一计费、统一监控、统一容灾。
@@ -304,3 +323,17 @@ response = client.chat.completions.create(model="gpt-4o", ...)
   <strong>智能API接口服务</strong> - 一个API Key，接入所有大模型<br>
   <a href="https://shanhai-geo.surge.sh">立即体验 →</a>
 </p>
+
+## 📱 联系与合作
+
+> **微信**: `lewis7815671`  
+> **邮箱**: contact@shanhai-geo.top  
+> **主站**: https://shanhai-geo.top
+
+<div align="center">
+
+<img src="https://shanhai-geo.top/wechat-qrcode.jpg" alt="微信二维码" width="200"/>
+
+**扫码添加微信 · lewis7815671**
+
+</div>
